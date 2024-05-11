@@ -33,4 +33,4 @@ Projeto de Assistente Pessoal Alfred AI
 
 **Lembre-se:** Alfred está sempre disponível para ajudá-lo a alcançar seus objetivos e aproveitar ao máximo cada momento.
 
-# NOTA: Apresetação gerada pelo Gemini
+## NOTA: Apresetação gerada pelo Gemini
